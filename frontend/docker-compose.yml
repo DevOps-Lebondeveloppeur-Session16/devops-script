@@ -1,0 +1,6 @@
+
+services:
+  frontend:
+    image: ka1122/frontend-app
+    ports:
+      - 3007:80
